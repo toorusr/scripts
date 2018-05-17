@@ -9,7 +9,7 @@
 ## Get started
 ###### Setup
 1. Make sure you have [python3.x](https://www.python.org/downloads/) installed
-2. Download the [script](https://raw.githubusercontent.com/toorusr/scripts/master/struc.tur/struc) (struc)
+2. Download the [script](https://raw.githubusercontent.com/toorusr/scripts/master/struc.tur/struct) (struct)
 
 ###### Creating a blank config
 1. Navigate to the folder where you want your folder structure
