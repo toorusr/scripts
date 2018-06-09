@@ -1,3 +1,6 @@
 [submodule "struc.tur"]
 	path = struc.tur
 	url = https://github.com/toorusr/struc.tur
+[submodule "customwindow"]
+	path = customwindow
+	url = https://github.com/toorusr/customwindow
