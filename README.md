@@ -1,5 +1,5 @@
-# Scripts Collection
-> A collection of all my small self-written scripts.
+# Scripts and ocus Collection
+> A collection of all my small self-written scripts and old cold uploads.
 
 ## Content
 1. [struct.tur](https://github.com/toorusr/struc.tur)
